@@ -1,0 +1,11 @@
+glfw;tar;no-all-load,no-import;cba1ef13-626a-4438-af3f-2b8e6e646987;${GLFW_URL:-https://github.com/glfw/glfw/archive/${GLFW_BRANCH:-3}.2.1.tar.gz};;;;base64:YWxpYXNlcz1nbGZ3MwppbmNsdWRlPUdMRlcvZ2xmdzMuaAo=
+GL;none;no-all-load,no-build,no-delete,no-dependency,no-fs,no-header,no-import,no-update;399be72b-9b55-4968-83fa-e1e3adcd54c6;GL;;;;include=GL/glext.h
+GLU;none;no-all-load,no-build,no-delete,no-dependency,no-fs,no-header,no-import,no-update;ad773a72-fb58-467e-ae2b-fe4ca7ae5ecf;GLU;;;;
+X11;none;no-all-load,no-build,no-delete,no-dependency,no-fs,no-header,no-import,no-update;dea8101a-8f81-47cf-b7be-1e25999deeca;X11;;;;
+Xrandr;none;no-all-load,no-build,no-delete,no-dependency,no-fs,no-header,no-import,no-update;089294e3-30be-4d56-9333-8777f5c3b7af;Xrandr;;;;
+Xxf86vm;none;no-all-load,no-build,no-delete,no-dependency,no-fs,no-header,no-import,no-update;5520e2b6-41e9-4f8f-8d54-9aec0caaee4b;Xxf86vm;;;;
+Xinerama;none;no-all-load,no-build,no-delete,no-dependency,no-fs,no-header,no-import,no-update;338c5264-92f6-469f-ab06-4b0d28deb213;Xinerama;;;;
+Xcursor;none;no-all-load,no-build,no-delete,no-dependency,no-fs,no-header,no-import,no-update;286ade38-8eaf-4407-b40d-fb872b16a315;Xcursor;;;;
+dl;none;no-all-load,no-build,no-delete,no-dependency,no-fs,no-header,no-import,no-update;6aae0715-758d-423f-9b69-2307f2af5806;dl;;;;
+pthread;none;no-all-load,no-build,no-delete,no-dependency,no-fs,no-header,no-import,no-update;2a5e3084-979e-487a-accb-fe857d4f39eb;pthread;;;;
+m;none;no-all-load,no-build,no-delete,no-dependency,no-fs,no-header,no-import,no-update;ac7fa028-03f0-47d8-b075-c89e03f0bc59;m;;;;
