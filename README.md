@@ -1,5 +1,10 @@
 # GLFWLatency
 
+Test drawing latency of GLFW / OpenGL with respect to the mouse cursor.
+
+
+## Build
+
 This is a [mulle-sde](https://mulle-sde.github.io/) project.
 
 It has it's own virtual environment, that will be automatically setup for you
@@ -15,3 +20,5 @@ project for you:
 ```
 mulle-sde craft
 ```
+
+
